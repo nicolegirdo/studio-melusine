@@ -22,8 +22,7 @@
           "/media/stage/the-nude-party-show/1.jpg",
           "/media/stage/the-nude-party-show/2.jpg",
           "/media/stage/the-nude-party-show/3.jpg",
-          "/media/stage/the-nude-party-show/4.jpg",
-          "/media/stage/the-nude-party-show/5.jpg"
+          "/media/stage/the-nude-party-show/4.jpg"
         ],
         "alt": "Band performing on a red-lit stage with projected animation",
         "fit": "cover",
@@ -39,17 +38,17 @@
     "projects": [
       {
         "title": "Suzdal Kremlin Museum Complex",
-        "client": "Triumph Gallery",
+        "client": "Re-exposition and Rebranding",
         "loc": "Suzdal, Russia",
         "year": "2026",
         "type": "Permanent exhibition",
-        "short": "A permanent exhibition for the Suzdal Kremlin Historical Museum, developed alongside the museum's rebranding and building renovation.",
+        "short": "Images, drawings and full details are available upon request.",
         "long": [
-          "Permanent exhibition design for the Suzdal Kremlin Historical Museum, developed together with the museum's rebranding and the renovation project for its building. Project in progress.",
-          "My participation: the exhibition design project, visual style concepts, 3D models, and graphic and spatial solutions for displaying museum objects."
+          "Status: in progress. Role: Architect / Exhibition Designer. Executor: Triumph Gallery.",
+          "This project is not public. Images, drawings and full details can be shared on request: nicole.girdo@gmail.com."
         ],
         "imgs": [],
-        "alt": "Suzdal Kremlin Museum Complex permanent exhibition"
+        "alt": "Suzdal Kremlin Museum Complex"
       }
     ]
   },
@@ -60,19 +59,26 @@
     "gs": "Work",
     "projects": [
       {
-        "title": "Project title",
-        "client": "Project subtitle",
-        "loc": "Location",
-        "year": "Year",
-        "type": "Type · Materials",
-        "short": "Add a short description: the idea, your role, the materials and the process.",
+        "title": "Aether House",
+        "client": "Festival installation",
+        "loc": "",
+        "year": "",
+        "type": "Immersive installation · 4 × 4 × 5 m",
+        "short": "A semi-transparent, ghost-like house of fabric and bells hidden among the trees, which becomes a labyrinth of projected light at night.",
         "long": [
-          "Add a longer description here: the idea, your role, the materials and the process."
+          "Nestled quietly among the trees, Aether House emerges as a hidden discovery along the path between festival nodes. Set slightly apart from the main flow, it invites visitors to slow down, wander off the beaten path, and encounter a space of subtle sensory transformation.",
+          "The structure forms a semi-transparent, ghost-like house suspended within nature. Inside, the space is adorned with bells of varying sizes and tonalities, carefully hung inside. During the day, wind and sunlight animate the delicate facade, allowing it to breathe with its surroundings. The bells respond gently to natural rhythms: air, movement, creating an ever-changing, organic soundscape.",
+          "As night falls, the installation transforms. Imaginary patterns of light are projected onto the translucent surfaces, dissolving the boundaries between interior and exterior. Visitors are invited to step inside and get lost within a softly illuminated labyrinth of fabric, light, and sound. The bells, once passive, now react to the accidental touch of bodies moving through the space, guiding visitors intuitively through the structure and gently leading them back out into the forest.",
+          "Aether House becomes a moment of quiet immersion where nature, movement, sound, and light merge into a fleeting, dream-like experience."
         ],
         "imgs": [
-          "/media/installation/project-title/0.jpg"
+          "/media/installation/aether-house/0.jpg",
+          "/media/installation/aether-house/1.jpg",
+          "/media/installation/aether-house/2.jpg",
+          "/media/installation/aether-house/3.jpg",
+          "/media/installation/aether-house/4.jpg"
         ],
-        "alt": "Translucent fabric installation lit in a forest at night, with people standing beneath it",
+        "alt": "Children and adults reaching through long translucent fabric panels in a forest",
         "fit": "cover"
       }
     ]
@@ -105,6 +111,29 @@
           "/media/designbuilt/fundamental-design-build-initiative/7.jpg"
         ],
         "alt": "Brick amphitheater in a garden",
+        "fit": "cover"
+      },
+      {
+        "title": "ELUA — Ecological Laboratory for Urban Agriculture",
+        "client": "Interdisciplinary research project",
+        "loc": "City College of New York",
+        "year": "2022–2025",
+        "type": "Research · Construction",
+        "short": "Two gantry robots tend urban polyculture gardens. I took part in the architecture team: collaborating across disciplines and developing the construction drawings.",
+        "long": [
+          "Idea. ELUA builds machines that adapt instead of control. Two gantry robots, one indoors and one on a sixth-floor rooftop, seed, water, weed and prune two polyculture gardens, asking whether machine-assisted cultivation can hold in an ecosystem that changes season to season.",
+          "Collaboration. The project brings together landscape architects, architects, roboticists and computer vision researchers, with community partners and local high schools.",
+          "My contribution. Developed construction drawings for the project. Collaborated across disciplines: architecture, landscape architecture, robotics and computer vision.",
+          "Project documentation and full credits: https://zihaozhang.cc/projects/elua/ (project page by Zihao Zhang)."
+        ],
+        "imgs": [
+          "/media/designbuilt/elua/0.jpg",
+          "/media/designbuilt/elua/1.jpg",
+          "/media/designbuilt/elua/2.jpg",
+          "/media/designbuilt/elua/3.jpg",
+          "/media/designbuilt/elua/4.jpg"
+        ],
+        "alt": "Gantry robot above the rooftop garden in full growth, with solar panels and a glass pavilion behind",
         "fit": "cover"
       }
     ]
